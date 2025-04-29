@@ -1,0 +1,1 @@
+This is the full package of the Cooper Smart Tutor website.
